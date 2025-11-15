@@ -1,6 +1,6 @@
 <template>
   <section class="flex flex-col md:flex-row bg-blue-700 text-white  gap-6">
-    <img src="/basic-activering-test/img/home/Bed-hout-1.png" alt="" class="w-full md:w-1/2 object-cover" />
+    <img src="/img/home/Bed-hout-1.png" alt="" class="w-full md:w-1/2 object-cover" />
     <div class="flex flex-col justify-center md:w-1/2 space-y-4">
       <h1 class="text-3xl font-semibold">Wat houdt onze dagbesteding in?</h1>
       <p>
