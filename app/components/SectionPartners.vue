@@ -2,7 +2,7 @@
   <section class="my-16 mx-10 text-center">
     <p class="text-lg mb-6">Erkenningen / samenwerkingspartners</p>
     <div class="flex flex-wrap justify-center gap-10">
-      <img v-for="n in partners" :key="n" :src="`/img/partners/${n}`" alt="" class="max-h-24 object-contain" />
+      <img v-for="n in partners" :key="n" :src="`/basic-activering-test/img/partners/${n}`" alt="" class="max-h-24 object-contain" />
     </div>
   </section>
 </template>

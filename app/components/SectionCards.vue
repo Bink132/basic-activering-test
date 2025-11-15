@@ -5,12 +5,12 @@ const cardSize = {
 }
 
 const cards = [
-  { title: 'Basic Wheels', img: '/img/home/rolstoel.png', link: '/basic/basic-wheels' },
-  { title: 'Basic Looks', img: '/img/home/rolstoel.png', link: '/basic/basic-looks' },
-  { title: 'Basic Bike', img: '/img/home/rolstoel.png', link: '/basic/basic-bike' },
-  { title: 'Basic Totaal', img: '/img/home/rolstoel.png', link: '/basic/basic-totaal' },
-  { title: 'Basic Green', img: '/img/home/rolstoel.png', link: '/basic/basic-green' },
-  { title: 'Basic Clean', img: '/img/home/rolstoel.png', link: '/basic/basic-clean' }
+  { title: 'Basic Wheels', img: '/basic-activering-test/img/home/rolstoel.png', link: '/basic/basic-wheels' },
+  { title: 'Basic Looks', img: '/basic-activering-test/img/home/rolstoel.png', link: '/basic/basic-looks' },
+  { title: 'Basic Bike', img: '/basic-activering-test/img/home/rolstoel.png', link: '/basic/basic-bike' },
+  { title: 'Basic Totaal', img: '/basic-activering-test/img/home/rolstoel.png', link: '/basic/basic-totaal' },
+  { title: 'Basic Green', img: '/basic-activering-test/img/home/rolstoel.png', link: '/basic/basic-green' },
+  { title: 'Basic Clean', img: '/basic-activering-test/img/home/rolstoel.png', link: '/basic/basic-clean' }
 ]
 </script>
 
@@ -45,7 +45,7 @@ const cards = [
           </h2>
 
           <!-- Lees meer knop (deels buiten afbeelding, zichtbaar) -->
-          <div class="absolute bottom-[-20px] right-6 z-10">
+          <div class="absolute -bottom-5 right-6 z-10">
             <div
               class="bg-blue-700 text-amber-400 px-6 py-2 rounded-md border-2 border-amber-400 shadow-md group-hover:bg-blue-600 transition-all duration-300"
             >

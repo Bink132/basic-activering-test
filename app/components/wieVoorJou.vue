@@ -38,7 +38,7 @@
             <polyline points="22,6 12,13 2,6" />
           </svg>
 
-          <span class="text-sm sm:text-base break-words max-w-[22rem] text-left">{{ email }}</span>
+          <span class="text-sm sm:text-base wrap-break-word max-w-[22rem] text-left">{{ email }}</span>
         </a>
       </div>
     </div>
