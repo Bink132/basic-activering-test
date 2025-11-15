@@ -13,10 +13,10 @@ defineProps({
 
 // Zet hier je vaste afbeeldingen neer (in /public/img/slide/)
 const images = [
-  '/img/slide/foto_1.jpeg',
-  '/img/slide/foto_2.jpeg',
-  '/img/slide/foto_3.jpg',
-  '/img/slide/foto_4.png',
+  '/basic-activering-test/img/slide/foto_1.jpeg',
+  '/basic-activering-test/img/slide/foto_2.jpeg',
+  '/basic-activering-test/img/slide/foto_3.jpg',
+  '/basic-activering-test/img/slide/foto_4.png',
 ]
 
 const index = ref(0)
