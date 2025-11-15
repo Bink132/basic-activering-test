@@ -11,7 +11,7 @@
   text="Basic Activering zorgt voor dagbesteding..."
 />
     <SectionCTA
-    image="/img/home/Bed-hout-1.png"
+    image="/basic-activering-test/img/home/Bed-hout-1.png"
       alt-text="Bed hout"
       title="Benieuwd naar wat wij kunnen doen voor jou?"
       button-text="Neem contact met ons op"
