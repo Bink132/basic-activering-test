@@ -18,7 +18,7 @@
             <img src="/img/home/Bed-hout-1.png" alt="">
         </div>
     </section>
-    <SectionCTA image="/img/home/Bed-hout-1.png" alt-text="Bed hout" title="Benieuwd wat wij nog meer doen?"
+    <SectionCTA image="/basic-activering-test/img/home/Bed-hout-1.png" alt-text="Bed hout" title="Benieuwd wat wij nog meer doen?"
             button-text="Bekijk onze diensten"></SectionCTA>
     <section class="mt-10 bg-blue-700 text-white py-10 px-96">
         <h1 class="flex justify-center font-bold text-2xl">Gebruik je creativiteit</h1>

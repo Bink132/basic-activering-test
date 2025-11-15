@@ -1,10 +1,10 @@
 <template>
     <slideshow title="Basic Bike: fietsenmaker onder begeleiding" subtitle="Home > Basic Bike">
     </slideshow>
-    <SectionIntro image="/img/Home/picknicktafel.jpg" alt-text="picknicktafel"
+    <SectionIntro image="/basic-activering-test/img/Home/picknicktafel.jpg" alt-text="picknicktafel"
         text="Hou je ervan om te sleutelen aan fietsen maar ontbreekt het je aan vaardigheden, dan is Basic Bike van Basic Activering in Amsterdam de plek om arbeidservaring op te doen als fietsenmaker onder professionele begeleiding. Je leert op onze fietswerkplaats onder begeleiding de handelingen en technieken op het gebied van fietsonderhoud en reparaties, van een reguliere fiets tot en met racefiets.">
     </SectionIntro>
-    <SectionCTA image="/img/home/Bed-hout-1.png" alt-text="Bed hout" title="Benieuwd wat wij nog meer doen?"
+    <SectionCTA image="/basic-activering-test/img/home/Bed-hout-1.png" alt-text="Bed hout" title="Benieuwd wat wij nog meer doen?"
         button-text="Bekijk onze diensten"></SectionCTA>
     <section class="bg-blue-700 text-white my-20 mx-20 py-5 px-5">
         <h1 class="text-2xl font-bold">Aan de slag als fietsenmaker onder begeleiding</h1>

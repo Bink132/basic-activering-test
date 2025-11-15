@@ -1,10 +1,10 @@
 <template>
     <slideshow title="Basic Green: tuinwerkzaamheden verrichten onder begeleiding" subtitle="Home > Basic Green">
     </slideshow>
-    <SectionIntro image="/img/Home/picknicktafel.jpg" alt-text="picknicktafel"
+    <SectionIntro image="/basic-activering-test/img/Home/picknicktafel.jpg" alt-text="picknicktafel"
         text="Wil je als dagbesteding tuinwerkzaamheden verrichten onder begeleiding van experts in Amsterdam? Bij Basic Activering werk je met een lach! Basic Green is een project van ons waar je in een kleinschalige, beschutte omgeving tuinwerkzaamheden verricht en een tuin leert onderhouden onder professionele begeleiding.">
     </SectionIntro>
-    <SectionCTA image="/img/home/Bed-hout-1.png" alt-text="Bed hout" title="Benieuwd wat wij nog meer doen?"
+    <SectionCTA image="/basic-activering-test/img/home/Bed-hout-1.png" alt-text="Bed hout" title="Benieuwd wat wij nog meer doen?"
         button-text="Bekijk onze diensten"></SectionCTA>
     <section class="bg-blue-700 text-white my-20 mx-20 py-5 px-5">
         <h1 class="text-2xl font-bold">Tuinwerkzaamheden die onder onze begeleiding zijn uitgevoerd</h1>
