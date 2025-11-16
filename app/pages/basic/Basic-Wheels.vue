@@ -1,7 +1,7 @@
 <template>
     <div>
         <slideshow title="Basic Wheels: als dagbesteding rolstoelen maken" subtitle="Home > Basic Wheels"></slideshow>
-        <SectionIntro image="/basic-activering-test/img/Home/picknicktafel.jpg" alt-text="picknicktafel"
+        <SectionIntro image="/basic-activering-test/img/home/picknicktafel.jpg" alt-text="picknicktafel"
             text="In de werkplaats van Basic Activering in Amsterdam kun je als dagbesteding rolstoelen leren maken speciaal voor basketbal. Daarnaast voer je andere taken uit onder begeleiding van professionele werkbegeleiders. Dus als jij graag met je handen bezig bent, nodigen we je graag uit bij onze werkplaats.">
         </SectionIntro>
         <SectionCTA image="/basic-activering-test/img/home/Bed-hout-1.png" alt-text="Bed hout" title="Benieuwd wat wij nog meer doen?"
