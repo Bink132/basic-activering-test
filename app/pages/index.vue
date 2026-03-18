@@ -6,8 +6,8 @@
       buttonText="Bekijk onze modellen">
     </slideshow>
     <SectionIntro 
-  image="/basic-activering-test/img/home/picknicktafel.jpg"
-  altText="picknicktafel"
+  image="/basic-activering-test/img/slide/foto_2.jpeg"
+  altText="foto"
   text="Basic Activering zorgt voor dagbesteding voor specifieke doelgroepen op onze vestigingen in Amsterdam West en IJburg. Op deze locaties zijn onze deskundigen constant bezig zijn met het helpen van doelgroepen met een achterstand op de arbeidsmarkt. Dit kan zijn door een lichamelijke of verstandelijke beperking of mensen met een indicatie banenafspraak. Onze dagbestedingsprojecten richten zich op laagdrempelige activiteiten die het zelfvertrouwen van deze specifieke doelgroepen stimuleren, zodat zij op den duur ook een goede plek op de arbeidsmarkt krijgen."
 />
     <SectionCTA
