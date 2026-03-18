@@ -1,10 +1,10 @@
 <template>
     <slideshow title="Basic Clean: schoonmaken onder begeleiding" subtitle="Home > Basic Clean">
     </slideshow>
-    <SectionIntro image="/basic-activering-test/img/home/picknicktafel.jpg" alt-text="picknicktafel"
+    <SectionIntro image="/basic-activering-test/img/home/Bed-hout-1.png" alt-text="Bed hout"
         text="Basic Clean is een schoonmaakproject binnen Basic Activering in Amsterdam waarbij je onder begeleiding leert schoonmaken als dagbesteding. Door middel van on the job training leer je onder begeleiding interieur verzorgen. De professionele begeleider leert je de fijne kneepjes van het vak.">
     </SectionIntro>
-    <SectionCTA image="/basic-activering-test/img/home/Bed-hout-1.png" alt-text="Bed hout"
+    <SectionCTA image="/basic-activering-test/img/home/picknicktafel.jpg" alt-text="picknicktafel"
         title="Benieuwd wat wij nog meer doen?" button-text="Bekijk onze diensten"></SectionCTA>
     <section class="bg-blue-700 text-white my-20 mx-20 py-5 px-5">
         <h1 class="text-2xl font-bold">Leren schoonmaken onder begeleiding bij onze dagbesteding</h1>

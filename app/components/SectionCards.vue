@@ -6,11 +6,11 @@ const cardSize = {
 
 const cards = [
   { title: 'Basic Wheels', img: '/basic-activering-test/img/home/rolstoel.png', link: '/basic/basic-wheels' },
-  { title: 'Basic Looks', img: '/basic-activering-test/img/home/rolstoel.png', link: '/basic/basic-looks' },
-  { title: 'Basic Bike', img: '/basic-activering-test/img/home/rolstoel.png', link: '/basic/basic-bike' },
-  { title: 'Basic Totaal', img: '/basic-activering-test/img/home/rolstoel.png', link: '/basic/basic-totaal' },
-  { title: 'Basic Green', img: '/basic-activering-test/img/home/rolstoel.png', link: '/basic/basic-green' },
-  { title: 'Basic Clean', img: '/basic-activering-test/img/home/rolstoel.png', link: '/basic/basic-clean' }
+  { title: 'Basic Looks', img: '/basic-activering-test/img/slide/foto_3.jpg', link: '/basic/basic-looks' },
+  { title: 'Basic Bike', img: '/basic-activering-test/img/slide/foto_2.jpeg', link: '/basic/basic-bike' },
+  { title: 'Basic Totaal', img: '/basic-activering-test/img/home/picknicktafel.jpg', link: '/basic/basic-totaal' },
+  { title: 'Basic Green', img: '/basic-activering-test/img/slide/foto_4.png', link: '/basic/basic-green' },
+  { title: 'Basic Clean', img: '/basic-activering-test/img/home/Bed-hout-1.png', link: '/basic/basic-clean' }
 ]
 </script>
 

@@ -15,10 +15,10 @@
             <p>Ook kun je schilderen en tekenen als creatieve dagbesteding</p>
         </div>
         <div class="w-1/3">
-            <img src="/img/home/Bed-hout-1.png" alt="">
+            <img :src="'/basic-activering-test/img/slide/foto_3.jpg'" alt="creatieve dagbesteding">
         </div>
     </section>
-    <SectionCTA image="/basic-activering-test/img/home/Bed-hout-1.png" alt-text="Bed hout" title="Benieuwd wat wij nog meer doen?"
+    <SectionCTA image="/basic-activering-test/img/slide/foto_2.jpeg" alt-text="foto" title="Benieuwd wat wij nog meer doen?"
             button-text="Bekijk onze diensten"></SectionCTA>
     <section class="mt-10 bg-blue-700 text-white py-10 px-96">
         <h1 class="flex justify-center font-bold text-2xl">Gebruik je creativiteit</h1>
